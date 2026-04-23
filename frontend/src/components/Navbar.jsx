@@ -30,7 +30,7 @@ const Navbar = () => {
         <div className="flex items-center justify-between h-16 lg:h-20">
 
           {/* Logo */}
-          // Replace the logo section inside Navbar.jsx
+          
           <a href="#home" className="flex items-center gap-2 group">
             <div className="w-9 h-9 rounded-lg bg-gradient-to-br from-teal-400 to-teal-600 flex items-center justify-center shadow-lg">
               <span className="text-white font-display font-bold text-lg">J</span>
