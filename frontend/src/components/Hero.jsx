@@ -16,7 +16,7 @@ const Hero = () => {
           {/* Pill badge */}
           <div className="inline-flex items-center gap-2 bg-teal-500/10 border border-teal-500/30 rounded-full px-4 py-1.5">
             <span className="w-2 h-2 bg-teal-400 rounded-full animate-pulse" />
-            <span className="text-teal-400 text-sm font-body font-medium">India's #1 Competitive Exam Coaching</span>
+            <span className="text-teal-400 text-sm font-body font-medium">🙏 Jai Shree Shyaam Coaching Institute</span>
           </div>
 
           {/* Main headline */}
@@ -79,8 +79,8 @@ const Hero = () => {
               <div className="flex items-center gap-3">
                 <div className="w-10 h-10 bg-teal-500/10 rounded-lg flex items-center justify-center text-xl">🏆</div>
                 <div>
-                  <div className="font-body font-semibold text-navy-900 text-sm">AIR 1 — JEE 2024</div>
-                  <div className="font-body text-slate-500 text-xs">Rahul Sharma, ElevateIAS Alumni</div>
+                  <div className="font-body font-semibold text-navy-900 text-sm">AIR 47 — NEET 2024</div>
+                  <div className="font-body text-slate-500 text-xs">Priya, JSS Coaching Alumni</div>
                 </div>
               </div>
             </div>

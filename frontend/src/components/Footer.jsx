@@ -14,15 +14,15 @@ const Footer = () => {
           <div className="md:col-span-2 space-y-4">
             <div className="flex items-center gap-2">
               <div className="w-9 h-9 rounded-lg bg-gradient-to-br from-teal-400 to-teal-600 flex items-center justify-center">
-                <span className="text-white font-display font-bold text-lg">E</span>
+                <span className="text-white font-display font-bold text-lg">J</span>
               </div>
               <span className="font-display font-bold text-xl text-white">
-                Elevate<span className="text-teal-400">IAS</span>
+                JSS <span className="text-teal-400">Coaching</span>
               </span>
             </div>
             <p className="font-body text-slate-500 text-sm leading-relaxed max-w-xs">
-              India's premier competitive exam coaching institute, empowering
-              students since 2009 with 10,000+ selections nationwide.
+              Jai Shree Shyaam Coaching Institute — guided by Abhay Varma Sir (MLT, Safdarjung Hospital).
+              Empowering competitive exam aspirants since 2015.
             </p>
             <div className="space-y-1">
               <p className="font-body text-slate-400 text-sm">📍 123 Knowledge Park, Sector 18, Noida, UP 201301</p>
@@ -63,7 +63,7 @@ const Footer = () => {
         {/* Bottom bar */}
         <div className="mt-12 pt-6 border-t border-white/10 flex flex-col sm:flex-row justify-between items-center gap-4">
           <p className="font-body text-slate-600 text-xs">
-            © {currentYear} ElevateIAS. All rights reserved.
+            © {currentYear} Jai Shree Shyaam Coaching Institute. All rights reserved.
           </p>
           <p className="font-body text-slate-600 text-xs">
             Privacy Policy · Terms of Service · Refund Policy
