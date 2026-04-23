@@ -70,7 +70,7 @@ const Hero = () => {
         <div className="hidden lg:flex justify-center">
           <div className="relative w-full max-w-md">
             <img
-              src="https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=600&q=80"
+              src="https://images.unsplash.com/photo-1577896851231-70ef18881754?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
               alt="Students studying"
               className="rounded-2xl shadow-2xl shadow-black/40 w-full object-cover h-[480px]"
             />
